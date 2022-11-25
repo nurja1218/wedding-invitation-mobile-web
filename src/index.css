@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    font-family: 'Pretendard, -apple-system, Apple SD Gothic Neo, Segoe UI, Roboto,Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji Segoe UI Symbol, Noto Color Emoji';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
